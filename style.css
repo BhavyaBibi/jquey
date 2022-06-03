@@ -1,0 +1,19 @@
+.head{
+
+    color:lightblue;
+    font-size: 2em;
+    background-color: black;
+}
+
+.spacing{
+    margin:2em;
+    padding:2em;
+    border:2px solid black;
+
+}
+
+#list{
+    color:lightgreen;
+    background-color:black; 
+    font-size: 1.5em;
+}
