@@ -1,2 +1,2 @@
 # jquey
-fodevelopment moesection
+for development section
